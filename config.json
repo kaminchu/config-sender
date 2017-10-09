@@ -1,5 +1,5 @@
 {
   "plugins":{
-    "rtx": "send-config-plugin-rtx"
+    "rtx": "./send-config-plugin-rtx"
   }
 }

@@ -22,6 +22,7 @@
     "gulp-babel": "^7.0.0"
   },
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "tftp": "^0.1.2"
   }
 }
